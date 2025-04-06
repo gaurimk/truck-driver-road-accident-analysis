@@ -1,0 +1,301 @@
+State,Highway,Date,Time,Weather Condition,Road Condition,Cause of Accident,Fatalities,Injuries,Driver Experience (Years),Driver Vision Status,Wearing Glasses?,Night Driving Difficulty
+Karnataka,NH-16,2021-03-04,06:03,Clear,Dry,Fatigue,1,3,12,Blurred,Yes,Yes
+Uttar Pradesh,NH-34,2020-11-04,10:38,Stormy,Wet,Speeding,4,1,19,Blurred,Yes,Yes
+Bihar,NH-34,2022-12-08,00:47,Clear,Under Construction,Speeding,5,0,21,Impaired,No,No
+Bihar,NH-66,2021-08-28,04:48,Clear,Wet,Fatigue,1,0,30,Blurred,Yes,Yes
+Madhya Pradesh,NH-48,2022-03-15,09:48,Rainy,Wet,Speeding,5,3,32,Blurred,Yes,Yes
+Madhya Pradesh,NH-19,2020-11-23,00:46,Foggy,Under Construction,Blurred Vision,1,1,15,Blurred,Yes,Yes
+Punjab,NH-30,2023-04-12,18:21,Foggy,Low Visibility,Blurred Vision,2,4,16,Blurred,Yes,Yes
+Gujarat,NH-30,2022-04-10,17:42,Rainy,Under Construction,Fatigue,5,2,28,Impaired,Yes,Yes
+Bihar,NH-44,2021-02-17,21:10,Stormy,Wet,Poor Visibility,1,4,38,Normal,Yes,Yes
+Gujarat,NH-75,2021-12-07,11:04,Stormy,Dry,Brake Failure,2,4,24,Normal,No,No
+Maharashtra,NH-48,2020-09-24,13:59,Stormy,Under Construction,Brake Failure,1,0,27,Blurred,Yes,Yes
+Gujarat,NH-44,2022-08-08,05:36,Rainy,Wet,Brake Failure,4,2,5,Impaired,Yes,No
+West Bengal,NH-66,2021-07-14,09:45,Rainy,Dry,Blurred Vision,2,2,9,Blurred,Yes,Yes
+Rajasthan,NH-27,2020-08-07,19:20,Rainy,Under Construction,Poor Visibility,1,5,13,Normal,No,No
+Bihar,NH-34,2023-07-08,13:01,Clear,Low Visibility,Speeding,4,4,15,Blurred,Yes,Yes
+Tamil Nadu,NH-66,2020-06-22,19:02,Rainy,Dry,Blurred Vision,0,4,35,Blurred,Yes,Yes
+Madhya Pradesh,NH-48,2021-09-19,10:21,Hazy,Wet,Blurred Vision,0,8,32,Blurred,Yes,Yes
+Tamil Nadu,NH-27,2022-01-04,20:13,Foggy,Wet,Blurred Vision,2,2,6,Blurred,Yes,Yes
+Madhya Pradesh,NH-19,2022-02-02,14:44,Hazy,Under Construction,Blurred Vision,2,3,16,Blurred,Yes,Yes
+Rajasthan,NH-48,2021-09-06,12:58,Stormy,Low Visibility,Blurred Vision,3,0,30,Blurred,Yes,Yes
+West Bengal,NH-30,2023-03-06,13:33,Stormy,Low Visibility,Poor Visibility,0,6,30,Blurred,Yes,Yes
+Karnataka,NH-66,2021-01-07,11:46,Hazy,Wet,Speeding,0,8,39,Blurred,Yes,Yes
+Uttar Pradesh,NH-16,2022-05-12,09:31,Foggy,Low Visibility,Poor Visibility,2,4,15,Blurred,Yes,Yes
+West Bengal,NH-44,2021-03-22,00:56,Hazy,Low Visibility,Blurred Vision,0,4,26,Blurred,Yes,Yes
+Madhya Pradesh,NH-66,2022-12-16,06:22,Rainy,Dry,Blurred Vision,1,1,29,Blurred,Yes,Yes
+Gujarat,NH-30,2023-06-06,11:57,Hazy,Low Visibility,Blurred Vision,0,8,3,Blurred,Yes,Yes
+West Bengal,NH-53,2020-02-21,16:18,Hazy,Wet,Blurred Vision,5,0,37,Blurred,Yes,Yes
+Bihar,NH-75,2020-07-12,18:56,Hazy,Under Construction,Brake Failure,1,0,7,Impaired,No,No
+Uttar Pradesh,NH-44,2023-12-18,02:50,Rainy,Under Construction,Blurred Vision,2,3,34,Blurred,Yes,Yes
+Maharashtra,NH-75,2020-08-22,12:57,Hazy,Low Visibility,Blurred Vision,4,1,16,Blurred,Yes,Yes
+Bihar,NH-30,2020-07-21,07:51,Rainy,Under Construction,Brake Failure,3,2,2,Blurred,Yes,Yes
+Tamil Nadu,NH-34,2020-04-14,10:05,Clear,Wet,Blurred Vision,2,3,1,Blurred,Yes,Yes
+Tamil Nadu,NH-16,2020-08-25,03:31,Rainy,Under Construction,Speeding,4,5,40,Blurred,Yes,Yes
+Karnataka,NH-19,2021-10-12,04:07,Hazy,Wet,Speeding,4,1,30,Normal,No,No
+Uttar Pradesh,NH-75,2020-10-23,23:47,Foggy,Wet,Fatigue,4,3,16,Impaired,Yes,No
+West Bengal,NH-66,2022-10-12,19:34,Stormy,Low Visibility,Blurred Vision,5,5,17,Blurred,Yes,Yes
+Gujarat,NH-30,2023-02-22,23:01,Rainy,Under Construction,Blurred Vision,1,5,21,Blurred,Yes,Yes
+Tamil Nadu,NH-66,2023-03-14,20:57,Clear,Dry,Blurred Vision,5,2,26,Blurred,Yes,Yes
+Madhya Pradesh,NH-16,2022-09-12,23:09,Hazy,Low Visibility,Blurred Vision,2,2,2,Blurred,Yes,Yes
+Punjab,NH-30,2022-01-27,06:05,Clear,Under Construction,Blurred Vision,0,7,3,Blurred,Yes,Yes
+Karnataka,NH-16,2020-02-06,17:26,Clear,Under Construction,Speeding,4,3,9,Blurred,Yes,Yes
+Bihar,NH-27,2022-11-27,06:01,Clear,Under Construction,Brake Failure,5,1,32,Impaired,Yes,Yes
+Punjab,NH-16,2021-07-04,04:03,Clear,Dry,Brake Failure,5,2,27,Impaired,Yes,Yes
+Maharashtra,NH-75,2023-08-01,02:00,Hazy,Under Construction,Brake Failure,0,5,21,Blurred,Yes,Yes
+West Bengal,NH-16,2022-12-18,20:14,Foggy,Wet,Fatigue,4,0,2,Impaired,No,No
+Uttar Pradesh,NH-27,2021-07-10,01:57,Clear,Low Visibility,Poor Visibility,1,0,34,Blurred,Yes,Yes
+Madhya Pradesh,NH-16,2023-12-02,02:14,Clear,Dry,Blurred Vision,3,0,11,Blurred,Yes,Yes
+Maharashtra,NH-30,2020-08-13,20:57,Rainy,Dry,Brake Failure,0,1,20,Impaired,Yes,Yes
+Punjab,NH-16,2021-08-21,03:25,Rainy,Wet,Speeding,3,1,39,Blurred,Yes,Yes
+Punjab,NH-16,2023-01-26,13:49,Foggy,Wet,Poor Visibility,3,2,34,Normal,Yes,Yes
+Gujarat,NH-66,2020-10-21,09:23,Hazy,Under Construction,Brake Failure,4,1,24,Normal,Yes,No
+Karnataka,NH-19,2020-11-22,09:38,Stormy,Low Visibility,Blurred Vision,0,8,35,Blurred,Yes,Yes
+Maharashtra,NH-53,2023-08-25,21:23,Foggy,Wet,Fatigue,5,0,12,Impaired,Yes,Yes
+Gujarat,NH-75,2023-08-11,18:51,Foggy,Under Construction,Blurred Vision,4,1,24,Blurred,Yes,Yes
+Tamil Nadu,NH-34,2022-06-01,01:21,Clear,Low Visibility,Blurred Vision,5,1,23,Blurred,Yes,Yes
+Gujarat,NH-34,2021-12-11,09:59,Foggy,Wet,Fatigue,2,4,27,Normal,No,No
+Karnataka,NH-34,2023-08-27,01:43,Foggy,Low Visibility,Blurred Vision,3,3,8,Blurred,Yes,Yes
+Madhya Pradesh,NH-27,2021-11-27,05:38,Rainy,Wet,Poor Visibility,2,4,13,Normal,No,Yes
+West Bengal,NH-19,2022-11-17,04:50,Rainy,Low Visibility,Poor Visibility,4,5,28,Impaired,Yes,Yes
+Madhya Pradesh,NH-19,2020-03-04,16:39,Foggy,Under Construction,Poor Visibility,5,5,31,Impaired,No,Yes
+Uttar Pradesh,NH-30,2020-11-22,06:38,Clear,Under Construction,Fatigue,5,1,29,Normal,Yes,Yes
+Uttar Pradesh,NH-30,2020-09-25,12:24,Hazy,Wet,Speeding,5,4,28,Impaired,Yes,Yes
+Bihar,NH-27,2021-10-20,03:04,Hazy,Wet,Blurred Vision,5,2,35,Blurred,Yes,Yes
+West Bengal,NH-53,2020-04-22,00:03,Stormy,Wet,Poor Visibility,4,5,15,Blurred,Yes,Yes
+Maharashtra,NH-16,2020-05-23,20:28,Hazy,Wet,Blurred Vision,0,4,6,Blurred,Yes,Yes
+Karnataka,NH-34,2022-03-22,05:41,Foggy,Low Visibility,Blurred Vision,4,5,13,Blurred,Yes,Yes
+Karnataka,NH-44,2023-09-27,21:26,Clear,Low Visibility,Blurred Vision,0,1,27,Blurred,Yes,Yes
+Tamil Nadu,NH-44,2023-05-10,12:07,Hazy,Dry,Blurred Vision,0,4,2,Blurred,Yes,Yes
+Uttar Pradesh,NH-34,2022-09-22,17:04,Foggy,Dry,Blurred Vision,1,5,15,Blurred,Yes,Yes
+Gujarat,NH-48,2022-08-15,03:13,Stormy,Low Visibility,Fatigue,2,1,30,Blurred,Yes,Yes
+Uttar Pradesh,NH-27,2022-02-01,03:27,Clear,Dry,Speeding,1,0,26,Blurred,Yes,Yes
+Rajasthan,NH-66,2021-05-26,04:52,Clear,Wet,Speeding,2,0,3,Blurred,Yes,Yes
+Uttar Pradesh,NH-44,2021-03-03,05:01,Clear,Wet,Blurred Vision,5,1,5,Blurred,Yes,Yes
+Maharashtra,NH-53,2022-05-20,01:56,Clear,Wet,Brake Failure,5,1,29,Blurred,Yes,Yes
+Madhya Pradesh,NH-44,2020-02-08,06:30,Foggy,Dry,Blurred Vision,0,8,40,Blurred,Yes,Yes
+Madhya Pradesh,NH-75,2020-06-08,22:23,Foggy,Wet,Brake Failure,4,2,27,Impaired,No,No
+Madhya Pradesh,NH-53,2021-02-01,11:36,Stormy,Dry,Blurred Vision,5,1,25,Blurred,Yes,Yes
+Tamil Nadu,NH-34,2021-08-10,03:59,Clear,Under Construction,Blurred Vision,1,1,34,Blurred,Yes,Yes
+West Bengal,NH-19,2023-11-26,21:38,Hazy,Wet,Brake Failure,1,4,22,Impaired,No,No
+Maharashtra,NH-27,2020-10-02,08:58,Foggy,Dry,Speeding,3,4,33,Blurred,Yes,Yes
+Punjab,NH-30,2021-01-16,16:21,Stormy,Wet,Fatigue,5,3,26,Impaired,Yes,Yes
+Karnataka,NH-53,2020-07-18,01:51,Clear,Dry,Poor Visibility,5,3,35,Impaired,Yes,Yes
+Gujarat,NH-66,2021-07-10,14:53,Foggy,Dry,Blurred Vision,0,10,22,Blurred,Yes,Yes
+Tamil Nadu,NH-30,2020-03-25,00:04,Hazy,Under Construction,Blurred Vision,0,2,14,Blurred,Yes,Yes
+Madhya Pradesh,NH-44,2023-02-21,00:37,Hazy,Dry,Poor Visibility,5,5,31,Normal,No,No
+West Bengal,NH-30,2021-05-01,21:21,Foggy,Low Visibility,Speeding,4,0,27,Impaired,No,No
+Uttar Pradesh,NH-30,2020-01-18,03:06,Hazy,Dry,Fatigue,3,5,8,Normal,Yes,No
+West Bengal,NH-34,2020-01-21,16:37,Foggy,Under Construction,Blurred Vision,1,2,29,Blurred,Yes,Yes
+Bihar,NH-30,2022-08-14,19:08,Foggy,Low Visibility,Blurred Vision,0,5,3,Blurred,Yes,Yes
+Gujarat,NH-19,2021-12-02,08:42,Stormy,Under Construction,Speeding,3,5,16,Impaired,No,No
+Madhya Pradesh,NH-53,2021-02-13,03:32,Stormy,Low Visibility,Blurred Vision,5,5,40,Blurred,Yes,Yes
+West Bengal,NH-75,2023-08-12,05:01,Foggy,Wet,Blurred Vision,2,1,8,Blurred,Yes,Yes
+Maharashtra,NH-75,2021-07-12,21:36,Hazy,Dry,Poor Visibility,5,5,32,Normal,Yes,No
+Karnataka,NH-16,2021-10-27,19:39,Foggy,Wet,Brake Failure,0,4,27,Blurred,Yes,Yes
+Rajasthan,NH-44,2020-07-14,16:14,Clear,Under Construction,Blurred Vision,4,0,15,Blurred,Yes,Yes
+Uttar Pradesh,NH-16,2020-03-17,21:06,Rainy,Low Visibility,Blurred Vision,3,2,9,Blurred,Yes,Yes
+Gujarat,NH-44,2023-09-27,19:02,Rainy,Low Visibility,Fatigue,5,5,8,Blurred,Yes,Yes
+Uttar Pradesh,NH-34,2022-08-19,21:56,Clear,Wet,Fatigue,0,5,24,Normal,No,No
+Madhya Pradesh,NH-66,2021-04-10,05:53,Rainy,Dry,Fatigue,1,1,4,Impaired,Yes,No
+West Bengal,NH-53,2023-01-06,18:55,Foggy,Low Visibility,Blurred Vision,1,0,35,Blurred,Yes,Yes
+West Bengal,NH-27,2023-11-17,03:46,Stormy,Dry,Blurred Vision,2,3,15,Blurred,Yes,Yes
+Bihar,NH-30,2023-11-12,05:33,Rainy,Low Visibility,Poor Visibility,4,5,1,Impaired,Yes,No
+West Bengal,NH-30,2021-11-22,22:17,Hazy,Dry,Blurred Vision,5,4,11,Blurred,Yes,Yes
+Uttar Pradesh,NH-53,2022-06-13,08:34,Stormy,Low Visibility,Fatigue,2,0,19,Blurred,Yes,Yes
+Karnataka,NH-16,2023-06-04,10:52,Clear,Wet,Poor Visibility,3,5,6,Blurred,Yes,Yes
+Bihar,NH-75,2021-06-07,05:24,Hazy,Low Visibility,Poor Visibility,5,3,35,Normal,Yes,No
+Uttar Pradesh,NH-30,2023-12-24,10:08,Hazy,Wet,Blurred Vision,5,5,22,Blurred,Yes,Yes
+Tamil Nadu,NH-16,2020-08-07,18:52,Clear,Under Construction,Blurred Vision,1,3,20,Blurred,Yes,Yes
+Punjab,NH-27,2023-07-05,18:33,Foggy,Wet,Blurred Vision,0,5,10,Blurred,Yes,Yes
+West Bengal,NH-48,2023-10-10,02:11,Clear,Wet,Speeding,0,3,24,Blurred,Yes,Yes
+Uttar Pradesh,NH-44,2021-12-15,23:23,Clear,Low Visibility,Blurred Vision,1,3,13,Blurred,Yes,Yes
+Karnataka,NH-66,2023-07-25,04:23,Clear,Under Construction,Blurred Vision,1,4,33,Blurred,Yes,Yes
+Gujarat,NH-30,2021-01-10,20:42,Clear,Under Construction,Blurred Vision,2,5,2,Blurred,Yes,Yes
+West Bengal,NH-48,2022-06-11,20:02,Foggy,Under Construction,Blurred Vision,4,0,38,Blurred,Yes,Yes
+Punjab,NH-48,2020-05-14,07:01,Clear,Dry,Blurred Vision,0,3,34,Blurred,Yes,Yes
+Maharashtra,NH-27,2022-06-12,11:34,Hazy,Wet,Poor Visibility,1,4,26,Impaired,Yes,Yes
+Gujarat,NH-30,2022-03-20,12:27,Stormy,Dry,Fatigue,1,2,29,Blurred,Yes,Yes
+Karnataka,NH-48,2023-06-20,20:16,Hazy,Low Visibility,Fatigue,4,4,34,Impaired,No,Yes
+Punjab,NH-27,2021-11-13,23:35,Foggy,Under Construction,Fatigue,5,3,8,Impaired,Yes,No
+Gujarat,NH-16,2020-06-09,09:03,Clear,Dry,Fatigue,3,5,11,Blurred,Yes,Yes
+Punjab,NH-16,2023-02-01,02:52,Foggy,Low Visibility,Poor Visibility,4,5,34,Blurred,Yes,Yes
+Bihar,NH-16,2023-02-20,22:31,Stormy,Wet,Fatigue,0,8,2,Impaired,Yes,No
+Uttar Pradesh,NH-16,2023-10-19,17:58,Clear,Low Visibility,Speeding,1,4,38,Blurred,Yes,Yes
+Punjab,NH-44,2020-07-11,10:56,Hazy,Dry,Blurred Vision,5,0,2,Blurred,Yes,Yes
+Rajasthan,NH-19,2021-07-27,06:09,Foggy,Low Visibility,Blurred Vision,4,1,2,Blurred,Yes,Yes
+Karnataka,NH-34,2022-08-26,12:38,Clear,Dry,Poor Visibility,1,5,11,Blurred,Yes,Yes
+Karnataka,NH-48,2021-09-24,19:47,Stormy,Under Construction,Blurred Vision,5,0,15,Blurred,Yes,Yes
+Rajasthan,NH-66,2021-05-15,13:42,Clear,Under Construction,Poor Visibility,1,2,33,Impaired,Yes,Yes
+Uttar Pradesh,NH-34,2022-08-27,12:21,Foggy,Under Construction,Speeding,5,5,17,Impaired,Yes,Yes
+Uttar Pradesh,NH-34,2020-12-18,06:13,Hazy,Under Construction,Blurred Vision,0,6,29,Blurred,Yes,Yes
+Gujarat,NH-48,2020-12-05,00:57,Hazy,Under Construction,Speeding,1,4,11,Blurred,Yes,Yes
+Tamil Nadu,NH-75,2021-05-18,00:39,Hazy,Wet,Speeding,5,3,21,Normal,No,Yes
+Bihar,NH-19,2021-02-22,11:28,Stormy,Dry,Blurred Vision,4,4,35,Blurred,Yes,Yes
+West Bengal,NH-53,2022-09-03,06:43,Stormy,Wet,Speeding,3,3,1,Normal,Yes,No
+Uttar Pradesh,NH-75,2022-12-16,08:10,Clear,Wet,Brake Failure,2,2,16,Normal,Yes,Yes
+West Bengal,NH-48,2021-08-23,22:38,Rainy,Under Construction,Blurred Vision,5,2,15,Blurred,Yes,Yes
+Maharashtra,NH-75,2021-06-16,10:19,Clear,Dry,Fatigue,0,4,36,Normal,Yes,No
+West Bengal,NH-27,2023-01-21,05:21,Hazy,Dry,Fatigue,5,1,27,Impaired,Yes,No
+Karnataka,NH-34,2020-09-26,04:59,Hazy,Wet,Blurred Vision,4,5,6,Blurred,Yes,Yes
+Tamil Nadu,NH-34,2020-08-02,00:46,Hazy,Dry,Blurred Vision,4,0,23,Blurred,Yes,Yes
+Uttar Pradesh,NH-30,2020-08-20,08:44,Rainy,Low Visibility,Fatigue,2,3,5,Blurred,Yes,Yes
+Gujarat,NH-27,2020-10-04,20:00,Foggy,Wet,Brake Failure,4,2,13,Blurred,Yes,Yes
+Madhya Pradesh,NH-66,2021-06-08,00:04,Rainy,Wet,Poor Visibility,5,0,35,Normal,No,Yes
+Madhya Pradesh,NH-48,2021-02-13,21:55,Foggy,Dry,Speeding,0,7,7,Blurred,Yes,Yes
+Maharashtra,NH-30,2020-07-01,14:14,Stormy,Dry,Blurred Vision,0,1,37,Blurred,Yes,Yes
+Tamil Nadu,NH-19,2022-02-17,09:23,Clear,Wet,Blurred Vision,0,7,12,Blurred,Yes,Yes
+Gujarat,NH-27,2021-05-12,10:36,Rainy,Under Construction,Brake Failure,1,3,28,Normal,Yes,No
+Maharashtra,NH-44,2021-05-08,09:15,Hazy,Under Construction,Blurred Vision,3,2,5,Blurred,Yes,Yes
+Uttar Pradesh,NH-66,2021-07-02,16:21,Clear,Under Construction,Blurred Vision,2,1,6,Blurred,Yes,Yes
+West Bengal,NH-19,2022-06-20,12:35,Stormy,Low Visibility,Brake Failure,3,5,19,Blurred,Yes,Yes
+Gujarat,NH-75,2023-03-21,13:48,Stormy,Wet,Speeding,1,5,40,Impaired,No,Yes
+Tamil Nadu,NH-75,2023-06-15,15:31,Stormy,Dry,Fatigue,4,1,27,Normal,Yes,No
+Madhya Pradesh,NH-30,2023-05-23,06:43,Hazy,Dry,Blurred Vision,5,3,6,Blurred,Yes,Yes
+Karnataka,NH-19,2022-02-16,11:31,Foggy,Under Construction,Poor Visibility,0,2,15,Normal,No,Yes
+Uttar Pradesh,NH-27,2021-09-01,02:17,Rainy,Dry,Fatigue,5,2,2,Blurred,Yes,Yes
+Maharashtra,NH-19,2021-05-11,16:38,Stormy,Dry,Fatigue,3,0,38,Normal,Yes,Yes
+Uttar Pradesh,NH-53,2023-10-09,11:13,Clear,Dry,Blurred Vision,1,3,24,Blurred,Yes,Yes
+Rajasthan,NH-66,2021-09-28,01:14,Stormy,Wet,Poor Visibility,4,5,15,Normal,Yes,Yes
+Gujarat,NH-16,2021-06-24,14:15,Foggy,Under Construction,Poor Visibility,3,0,15,Blurred,Yes,Yes
+Punjab,NH-48,2023-09-12,21:22,Stormy,Wet,Poor Visibility,5,0,34,Normal,Yes,No
+Maharashtra,NH-75,2022-12-28,04:10,Stormy,Dry,Fatigue,1,2,26,Impaired,No,No
+Bihar,NH-16,2023-10-24,20:50,Rainy,Wet,Poor Visibility,1,5,33,Blurred,Yes,Yes
+Uttar Pradesh,NH-48,2023-06-27,00:48,Hazy,Under Construction,Poor Visibility,1,3,16,Normal,No,Yes
+Gujarat,NH-30,2023-07-22,03:35,Clear,Dry,Poor Visibility,0,1,34,Normal,No,Yes
+Tamil Nadu,NH-75,2023-09-02,13:05,Hazy,Low Visibility,Poor Visibility,5,2,1,Impaired,Yes,Yes
+Gujarat,NH-34,2020-07-03,20:04,Hazy,Low Visibility,Brake Failure,3,4,2,Blurred,Yes,Yes
+Maharashtra,NH-48,2022-12-26,14:49,Rainy,Dry,Blurred Vision,1,1,16,Blurred,Yes,Yes
+Rajasthan,NH-48,2021-09-28,00:03,Rainy,Wet,Blurred Vision,5,4,32,Blurred,Yes,Yes
+Karnataka,NH-16,2022-08-16,04:21,Hazy,Under Construction,Poor Visibility,5,0,40,Normal,No,No
+Uttar Pradesh,NH-48,2023-10-24,02:56,Foggy,Dry,Poor Visibility,0,2,36,Blurred,Yes,Yes
+Rajasthan,NH-53,2021-11-27,20:40,Foggy,Dry,Blurred Vision,3,2,31,Blurred,Yes,Yes
+Maharashtra,NH-27,2023-08-13,07:24,Clear,Low Visibility,Speeding,5,2,13,Impaired,Yes,Yes
+Rajasthan,NH-30,2020-10-05,06:23,Hazy,Dry,Speeding,3,3,34,Blurred,Yes,Yes
+Karnataka,NH-48,2021-02-10,08:05,Hazy,Dry,Blurred Vision,1,0,34,Blurred,Yes,Yes
+Uttar Pradesh,NH-27,2023-01-23,12:03,Stormy,Low Visibility,Poor Visibility,3,3,32,Impaired,No,Yes
+Karnataka,NH-75,2020-01-16,20:43,Clear,Under Construction,Fatigue,5,3,16,Normal,Yes,No
+West Bengal,NH-44,2023-10-01,06:24,Stormy,Under Construction,Speeding,2,0,21,Impaired,No,No
+Gujarat,NH-44,2023-05-28,10:26,Foggy,Low Visibility,Fatigue,4,2,34,Blurred,Yes,Yes
+Madhya Pradesh,NH-75,2020-12-17,07:38,Hazy,Low Visibility,Blurred Vision,2,5,14,Blurred,Yes,Yes
+Madhya Pradesh,NH-16,2023-06-18,08:28,Clear,Low Visibility,Blurred Vision,5,5,39,Blurred,Yes,Yes
+Maharashtra,NH-19,2020-08-16,00:53,Rainy,Under Construction,Blurred Vision,3,3,2,Blurred,Yes,Yes
+Punjab,NH-66,2022-02-23,21:55,Foggy,Under Construction,Poor Visibility,1,3,20,Impaired,No,Yes
+West Bengal,NH-53,2022-09-08,15:32,Stormy,Under Construction,Fatigue,2,4,12,Blurred,Yes,Yes
+Punjab,NH-44,2020-06-02,08:13,Stormy,Under Construction,Speeding,0,8,32,Impaired,Yes,No
+Gujarat,NH-27,2021-04-23,18:35,Foggy,Under Construction,Brake Failure,2,0,29,Normal,No,No
+Uttar Pradesh,NH-34,2023-05-14,14:34,Rainy,Dry,Speeding,4,2,34,Impaired,Yes,No
+Maharashtra,NH-53,2022-09-12,02:37,Clear,Wet,Blurred Vision,5,4,16,Blurred,Yes,Yes
+Bihar,NH-66,2021-04-16,22:05,Clear,Low Visibility,Poor Visibility,0,5,32,Normal,No,Yes
+West Bengal,NH-48,2021-09-12,05:12,Hazy,Wet,Fatigue,0,9,1,Impaired,Yes,No
+Karnataka,NH-66,2020-02-05,18:24,Foggy,Under Construction,Poor Visibility,2,2,17,Normal,No,No
+Madhya Pradesh,NH-44,2021-11-27,15:02,Hazy,Wet,Fatigue,4,4,7,Normal,No,Yes
+Maharashtra,NH-66,2020-05-20,06:00,Foggy,Under Construction,Blurred Vision,2,2,21,Blurred,Yes,Yes
+Punjab,NH-19,2023-09-03,22:50,Foggy,Under Construction,Blurred Vision,1,1,27,Blurred,Yes,Yes
+Uttar Pradesh,NH-30,2020-01-21,18:59,Clear,Wet,Blurred Vision,0,8,26,Blurred,Yes,Yes
+West Bengal,NH-75,2022-09-13,23:50,Stormy,Low Visibility,Blurred Vision,5,5,23,Blurred,Yes,Yes
+Maharashtra,NH-34,2023-07-17,20:10,Foggy,Low Visibility,Speeding,4,4,31,Impaired,Yes,No
+Punjab,NH-75,2022-03-17,13:50,Clear,Low Visibility,Brake Failure,1,2,15,Blurred,Yes,Yes
+Bihar,NH-66,2020-08-25,12:46,Hazy,Low Visibility,Brake Failure,0,10,19,Impaired,No,No
+Uttar Pradesh,NH-48,2020-04-16,07:20,Stormy,Wet,Brake Failure,5,0,13,Blurred,Yes,Yes
+Karnataka,NH-19,2021-07-14,11:11,Clear,Wet,Fatigue,1,2,14,Impaired,Yes,Yes
+Maharashtra,NH-66,2022-07-08,14:27,Hazy,Low Visibility,Poor Visibility,5,1,26,Normal,No,Yes
+West Bengal,NH-75,2021-05-25,09:10,Stormy,Wet,Fatigue,2,4,26,Blurred,Yes,Yes
+Uttar Pradesh,NH-44,2023-04-24,22:02,Foggy,Low Visibility,Fatigue,4,4,27,Blurred,Yes,Yes
+Karnataka,NH-27,2021-02-24,22:31,Foggy,Wet,Blurred Vision,2,4,34,Blurred,Yes,Yes
+Uttar Pradesh,NH-16,2020-09-10,02:11,Stormy,Low Visibility,Brake Failure,0,4,5,Blurred,Yes,Yes
+Maharashtra,NH-27,2020-07-13,07:08,Foggy,Wet,Poor Visibility,5,1,10,Normal,Yes,No
+Maharashtra,NH-75,2021-06-10,08:22,Hazy,Wet,Blurred Vision,0,2,34,Blurred,Yes,Yes
+Punjab,NH-44,2020-01-07,05:43,Clear,Under Construction,Blurred Vision,5,5,12,Blurred,Yes,Yes
+Tamil Nadu,NH-75,2022-01-03,04:04,Hazy,Wet,Blurred Vision,1,0,38,Blurred,Yes,Yes
+Gujarat,NH-30,2023-05-05,10:59,Clear,Dry,Fatigue,0,4,40,Blurred,Yes,Yes
+Karnataka,NH-75,2020-06-13,22:02,Rainy,Wet,Poor Visibility,3,3,38,Blurred,Yes,Yes
+Uttar Pradesh,NH-66,2020-04-26,14:47,Stormy,Low Visibility,Blurred Vision,5,1,1,Blurred,Yes,Yes
+Karnataka,NH-19,2020-03-15,07:13,Foggy,Wet,Poor Visibility,3,0,38,Blurred,Yes,Yes
+Gujarat,NH-53,2023-04-04,11:43,Rainy,Low Visibility,Fatigue,1,5,1,Normal,No,No
+Punjab,NH-16,2022-05-16,04:26,Clear,Dry,Blurred Vision,1,1,3,Blurred,Yes,Yes
+Tamil Nadu,NH-75,2023-06-03,00:37,Stormy,Low Visibility,Blurred Vision,3,0,35,Blurred,Yes,Yes
+Bihar,NH-44,2023-12-16,21:22,Foggy,Dry,Poor Visibility,4,4,37,Blurred,Yes,Yes
+Gujarat,NH-30,2022-09-24,15:56,Clear,Under Construction,Poor Visibility,4,5,8,Blurred,Yes,Yes
+Uttar Pradesh,NH-27,2020-02-14,04:04,Hazy,Wet,Brake Failure,0,2,2,Normal,No,No
+West Bengal,NH-16,2023-10-02,01:00,Clear,Wet,Blurred Vision,1,4,31,Blurred,Yes,Yes
+Rajasthan,NH-34,2021-12-28,16:25,Foggy,Under Construction,Blurred Vision,5,4,12,Blurred,Yes,Yes
+Maharashtra,NH-27,2020-01-25,09:43,Rainy,Wet,Blurred Vision,1,5,2,Blurred,Yes,Yes
+Bihar,NH-66,2022-12-17,19:59,Stormy,Wet,Poor Visibility,4,1,24,Blurred,Yes,Yes
+Rajasthan,NH-66,2021-10-04,22:58,Stormy,Wet,Blurred Vision,1,0,15,Blurred,Yes,Yes
+Gujarat,NH-53,2022-07-19,02:32,Clear,Under Construction,Brake Failure,4,5,34,Normal,Yes,Yes
+Madhya Pradesh,NH-75,2022-05-24,06:55,Hazy,Wet,Poor Visibility,1,1,34,Blurred,Yes,Yes
+Karnataka,NH-16,2023-01-05,21:21,Stormy,Dry,Blurred Vision,1,1,22,Blurred,Yes,Yes
+Maharashtra,NH-53,2021-09-27,15:31,Rainy,Wet,Fatigue,3,3,14,Impaired,No,Yes
+Tamil Nadu,NH-53,2023-10-23,04:39,Clear,Dry,Blurred Vision,3,0,1,Blurred,Yes,Yes
+Bihar,NH-27,2023-05-16,17:23,Stormy,Low Visibility,Blurred Vision,2,5,33,Blurred,Yes,Yes
+Bihar,NH-53,2023-01-05,01:20,Hazy,Under Construction,Poor Visibility,3,1,4,Normal,Yes,No
+Rajasthan,NH-53,2021-03-25,04:42,Foggy,Under Construction,Blurred Vision,3,4,15,Blurred,Yes,Yes
+Bihar,NH-75,2020-05-02,00:09,Hazy,Dry,Fatigue,0,4,7,Blurred,Yes,Yes
+Uttar Pradesh,NH-27,2023-12-13,07:20,Foggy,Wet,Blurred Vision,5,0,37,Blurred,Yes,Yes
+Uttar Pradesh,NH-19,2021-12-20,12:48,Clear,Under Construction,Blurred Vision,5,4,13,Blurred,Yes,Yes
+Karnataka,NH-27,2020-08-20,06:55,Foggy,Dry,Speeding,5,4,18,Impaired,Yes,No
+Karnataka,NH-19,2023-08-19,18:43,Clear,Wet,Fatigue,5,5,27,Impaired,No,Yes
+West Bengal,NH-16,2022-07-01,18:25,Hazy,Low Visibility,Speeding,0,1,26,Normal,No,No
+Rajasthan,NH-27,2021-12-20,04:04,Foggy,Wet,Fatigue,5,5,2,Blurred,Yes,Yes
+Karnataka,NH-48,2020-10-20,03:19,Foggy,Under Construction,Fatigue,0,9,26,Normal,No,Yes
+Gujarat,NH-30,2020-06-11,16:27,Stormy,Low Visibility,Fatigue,5,0,15,Impaired,No,No
+Tamil Nadu,NH-44,2020-02-19,10:11,Foggy,Wet,Fatigue,0,5,9,Blurred,Yes,Yes
+Maharashtra,NH-48,2022-03-05,21:16,Stormy,Low Visibility,Speeding,3,0,34,Normal,No,No
+Rajasthan,NH-53,2023-11-26,16:41,Stormy,Wet,Poor Visibility,2,5,39,Blurred,Yes,Yes
+Rajasthan,NH-30,2020-04-05,18:56,Stormy,Under Construction,Fatigue,1,4,39,Blurred,Yes,Yes
+Uttar Pradesh,NH-75,2022-02-01,02:46,Stormy,Low Visibility,Fatigue,4,1,12,Normal,Yes,No
+Uttar Pradesh,NH-30,2021-06-22,04:16,Hazy,Dry,Blurred Vision,0,2,2,Blurred,Yes,Yes
+Bihar,NH-30,2022-01-21,20:00,Clear,Under Construction,Blurred Vision,5,0,14,Blurred,Yes,Yes
+Bihar,NH-34,2023-02-16,22:45,Foggy,Dry,Poor Visibility,2,0,16,Normal,No,Yes
+Uttar Pradesh,NH-16,2022-07-19,02:24,Rainy,Under Construction,Poor Visibility,3,3,28,Blurred,Yes,Yes
+Rajasthan,NH-44,2022-11-02,04:48,Rainy,Under Construction,Fatigue,0,9,21,Blurred,Yes,Yes
+Bihar,NH-19,2022-04-24,18:06,Clear,Under Construction,Blurred Vision,0,10,28,Blurred,Yes,Yes
+Uttar Pradesh,NH-16,2023-01-16,07:53,Stormy,Under Construction,Brake Failure,0,6,38,Blurred,Yes,Yes
+Bihar,NH-19,2021-07-03,00:34,Stormy,Under Construction,Blurred Vision,0,6,5,Blurred,Yes,Yes
+Gujarat,NH-44,2020-06-18,01:23,Rainy,Dry,Fatigue,1,3,12,Blurred,Yes,Yes
+Tamil Nadu,NH-53,2022-01-22,22:20,Stormy,Dry,Blurred Vision,1,1,1,Blurred,Yes,Yes
+West Bengal,NH-75,2021-11-26,20:50,Foggy,Under Construction,Speeding,1,3,15,Impaired,No,No
+West Bengal,NH-27,2021-03-20,19:24,Clear,Wet,Poor Visibility,3,4,19,Blurred,Yes,Yes
+Gujarat,NH-75,2021-06-10,06:45,Stormy,Low Visibility,Brake Failure,0,9,35,Normal,Yes,No
+West Bengal,NH-75,2021-03-05,20:50,Stormy,Low Visibility,Blurred Vision,2,2,34,Blurred,Yes,Yes
+Gujarat,NH-44,2020-04-23,17:52,Clear,Under Construction,Blurred Vision,3,1,17,Blurred,Yes,Yes
+West Bengal,NH-19,2021-07-28,01:53,Hazy,Under Construction,Fatigue,2,3,7,Blurred,Yes,Yes
+Bihar,NH-27,2020-03-20,21:39,Stormy,Wet,Fatigue,1,3,5,Normal,No,No
+Madhya Pradesh,NH-34,2023-07-07,17:10,Foggy,Wet,Blurred Vision,5,3,32,Blurred,Yes,Yes
+Bihar,NH-66,2022-02-20,09:12,Stormy,Under Construction,Blurred Vision,5,3,34,Blurred,Yes,Yes
+Maharashtra,NH-44,2023-05-25,12:02,Clear,Under Construction,Fatigue,3,1,31,Normal,No,Yes
+West Bengal,NH-19,2021-06-28,22:15,Stormy,Wet,Blurred Vision,1,4,38,Blurred,Yes,Yes
+Gujarat,NH-34,2022-09-15,07:22,Clear,Low Visibility,Blurred Vision,5,5,2,Blurred,Yes,Yes
+Rajasthan,NH-19,2021-06-19,03:41,Foggy,Low Visibility,Poor Visibility,4,3,7,Normal,Yes,Yes
+Tamil Nadu,NH-16,2020-05-28,17:04,Foggy,Wet,Speeding,3,5,6,Impaired,No,Yes
+Rajasthan,NH-44,2022-01-15,07:15,Hazy,Under Construction,Blurred Vision,5,4,16,Blurred,Yes,Yes
+Rajasthan,NH-66,2020-09-12,00:12,Stormy,Dry,Brake Failure,2,1,34,Normal,Yes,Yes
+West Bengal,NH-19,2020-06-09,05:34,Rainy,Low Visibility,Blurred Vision,1,4,9,Blurred,Yes,Yes
+Uttar Pradesh,NH-66,2020-02-17,02:32,Clear,Dry,Blurred Vision,3,1,39,Blurred,Yes,Yes
+Uttar Pradesh,NH-44,2022-07-08,00:53,Clear,Under Construction,Speeding,5,3,9,Impaired,No,No
+Tamil Nadu,NH-48,2023-03-08,23:59,Hazy,Dry,Brake Failure,0,10,14,Impaired,No,No
+Punjab,NH-75,2023-01-22,07:20,Stormy,Dry,Blurred Vision,5,2,31,Blurred,Yes,Yes
+Punjab,NH-75,2021-06-17,00:49,Rainy,Under Construction,Poor Visibility,2,3,32,Blurred,Yes,Yes
+Uttar Pradesh,NH-19,2023-09-16,13:00,Stormy,Dry,Fatigue,5,5,1,Impaired,Yes,Yes
+Bihar,NH-75,2022-01-16,13:38,Clear,Low Visibility,Blurred Vision,5,3,17,Blurred,Yes,Yes
+Tamil Nadu,NH-66,2020-02-22,07:10,Stormy,Low Visibility,Fatigue,1,2,17,Blurred,Yes,Yes
+Maharashtra,NH-44,2020-02-17,19:58,Foggy,Low Visibility,Blurred Vision,2,0,13,Blurred,Yes,Yes
+West Bengal,NH-16,2022-04-04,23:16,Hazy,Wet,Fatigue,0,9,8,Impaired,Yes,No
+Bihar,NH-53,2022-05-02,15:46,Rainy,Dry,Blurred Vision,1,2,33,Blurred,Yes,Yes
+Gujarat,NH-48,2020-03-24,22:35,Rainy,Under Construction,Blurred Vision,4,5,5,Blurred,Yes,Yes
+Uttar Pradesh,NH-34,2022-04-05,21:36,Clear,Under Construction,Brake Failure,5,2,32,Impaired,No,Yes
+Uttar Pradesh,NH-34,2022-10-12,23:03,Rainy,Dry,Poor Visibility,1,5,12,Blurred,Yes,Yes
+Uttar Pradesh,NH-34,2022-09-27,00:49,Clear,Dry,Blurred Vision,1,5,13,Blurred,Yes,Yes
+Punjab,NH-27,2022-05-22,03:11,Stormy,Dry,Blurred Vision,1,5,26,Blurred,Yes,Yes
+Maharashtra,NH-19,2021-02-14,06:07,Clear,Dry,Poor Visibility,2,1,6,Blurred,Yes,Yes
+Karnataka,NH-66,2023-01-01,10:12,Rainy,Under Construction,Fatigue,2,2,27,Impaired,Yes,Yes
+Uttar Pradesh,NH-44,2020-04-17,08:54,Clear,Under Construction,Blurred Vision,2,4,13,Blurred,Yes,Yes
+Punjab,NH-53,2022-01-07,22:53,Stormy,Under Construction,Poor Visibility,1,5,3,Normal,No,Yes
+Rajasthan,NH-30,2020-11-05,18:30,Rainy,Under Construction,Poor Visibility,0,6,9,Blurred,Yes,Yes
+Bihar,NH-19,2023-07-14,11:38,Hazy,Low Visibility,Blurred Vision,3,5,38,Blurred,Yes,Yes
+Gujarat,NH-75,2021-01-23,09:51,Rainy,Dry,Poor Visibility,0,4,16,Normal,No,No
+Gujarat,NH-27,2022-06-20,07:34,Hazy,Wet,Speeding,1,3,26,Blurred,Yes,Yes
+Rajasthan,NH-44,2020-10-24,07:22,Foggy,Under Construction,Blurred Vision,3,2,4,Blurred,Yes,Yes
+Madhya Pradesh,NH-75,2022-06-10,20:44,Rainy,Dry,Blurred Vision,4,2,18,Blurred,Yes,Yes
+Uttar Pradesh,NH-48,2022-12-21,21:42,Rainy,Dry,Blurred Vision,1,0,14,Blurred,Yes,Yes
