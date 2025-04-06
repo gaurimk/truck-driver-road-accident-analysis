@@ -24,3 +24,6 @@ This project aims to analyze road accident data related to truck drivers using P
 ## 📊 Key Findings
 - Peak accident hours and most common causes identified.
 - Specific recommendations made for route monitoring and driver fatigue management.
+
+- Minor update to README by Shantveer
+
